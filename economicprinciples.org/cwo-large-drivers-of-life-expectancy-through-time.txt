@@ -1,0 +1,98 @@
+Largest Events Driving Changes to Life Expectancy Through Time
+In my book The Changing World Order: Why Nations Succeed and Fail, I show these charts of how life expectancy
+has changed through time. Here, I wanted to share some of the largest events that drove these historical moves
+up and down. Note that prior to 1800, these charts only reflect shifts in UK life expectancy, but I am listing global
+events here and including events over a longer time frame.
+
+
+
+
+This list is necessarily incomplete, due to both missing data and the difficulty of determining the death toll of
+some events. Our goal here is to provide some color on the types and frequency of large death events through
+time as opposed to creating a complete catalogue.
+                                                                                             Death Toll    Death Toll
+                 Event                  Type               Dates             Region
+                                                                                             (Million)    (% Wld Pop)
+Conquests by Genghis Khan               War               1206-27             Asia              40           10.2%
+Great Famine                           Famine             1315-17            Europe              -             -
+Hundred Years' War                      War              1337-1453           Europe             3.5          0.9%
+Black Death                          Pandemic             1347-52       Europe/Asia/Africa      150         38.3%
+Fall of Yuan Dynasty              Internal Conflict       1340-70             China             7.5          1.9%
+Conquests by Tamerlane                  War              1370-1405            Asia               17          4.4%
+New World smallpox                   Pandemic           Starting 1520       Americas             -             -
+Cocoliztli epidemic                  Pandemic             1545-48            Mexico              12          2.4%
+Russian Time of Troubles          Internal Conflict       1606-13             Russia             5           0.9%
+Thirty Years' War                       War               1618-48            Europe             7.5          1.3%
+Deccan famine                          Famine             1630-32             India             7.4          1.3%
+Fall of Ming Dynasty            War/Internal Conflict     1635-52             China             25           4.4%
+Great Bengal famine                    Famine             1770-76             India              10          1.1%
+Chalisa famine                         Famine             1783-84             India              10          1.1%
+Doja bara famine                       Famine             1791-92             India              10          1.0%
+Revolutionary/Napoleonic Wars           War              1792-1815           Europe              4           0.4%
+Four Famines in China                  Famine             1810-49             China             45           4.3%
+Taiping Rebellion                 Internal Conflict       1850-64             China             20           1.6%
+Madras famine                          Famine             1876-78             India              8           0.6%
+North China Famine                     Famine             1876-79             China              11          0.8%
+Mahdist War                     War/Internal Conflict     1881-98             Sudan             5.5          0.4%
+Third plague                         Pandemic           Starting 1885         Global             12          0.8%
+Congo Free State                        War              1885-1908            Africa             10          0.7%
+WWI                                     War               1914-18         Largely Europe         15          0.8%
+1918 flu                             Pandemic             1918-20             Global            50           2.7%
+Russian Civil War                 Internal Conflict       1918-22             Russia             9           0.5%
+Famine in Russia                       Famine             1921-22             Russia             5           0.3%
+Chinese Civil War                 Internal Conflict       1927-49             China              7           0.4%
+Famine in China                        Famine             1927-29             China             6.5          0.3%
+Famine in Ukraine                      Famine             1932-33             USSR               5           0.2%
+WWII                                    War               1939-45             Global            65           2.8%
+Great Leap Forward famine              Famine             1958-60             China             32           1.1%
+Vietnam War                             War               1954-75            Vietnam            4.2          0.2%
+HIV/AIDS                             Pandemic           1981-Present          Global            35           0.8%
+Famine in North Korea                  Famine             1995-99          North Korea          2.5          0.0%
+Second Congo War                        War             1998-2003             Africa            3.8          0.1%
+COVID-19 (through Nov 2021)          Pandemic           2019-Present          Global             5           0.1%
+Sources:
+
+R. Acuna-Soto, D. W. Stahle, M. K. Cleaveland, M. D. Therrell, “Megadrought and Megadeath in 16th Century
+Mexico,” Emerging Infectious Diseases 8, no. 4 (2000): 360–62,
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2730237.
+
+Anne Applebaum, “How Stalin Hid Ukraine’s Famine from the World,” Atlantic, October 13, 2017,
+https://www.theatlantic.com/international/archive/2017/10/red-famine-anne-applebaum-ukraine-soviet-
+union/542610.
+
+Helena Cobban, “1630: Famine in Gujarat, Dutch Colonizing Success in Brazil,” Just World News (blog), April 20,
+2021, https://justworldnews.org/2021/04/20/1630-famine-in-gujarat-dutch-colonizing-success-in-brazil.
+
+Barbara Crossette, “Korean Famine Toll: More Than 2 Million,” New York Times, August 20, 1999,
+https://www.nytimes.com/1999/08/20/world/korean-famine-toll-more-than-2-million.html.
+
+Stephen Devereux, “Famine in the Twentieth Century” (working paper, Institute of Development Studies,
+University of Sussex, Brighton, 2000), https://www.ids.ac.uk/download.php?file=files/dmfile/wp105.pdf.
+
+“Famine in Russia: 1921–1922,” Modern Records Centre (website), University Library, University of Warwick,
+United Kingdom, last modified February 3, 2017,
+https://warwick.ac.uk/services/library/mrc/archives_online/digital/russia/famine.
+
+Ralph A. Graves, “Fearful Famines of the Past: History Will Repeat Itself Unless the American People Conserve
+Their Resources,” National Geographic, 1917.
+
+Bill Marsh, “Population Control, Marauder Style,” infographic, New York Times, November 6, 2011,
+https://archive.nytimes.com/www.nytimes.com/imagepages/2011/11/06/opinion/06atrocities_timeline.html?
+pagewanted=all.
+
+Cormac Ó Gráda, Famine: A Short History (Princeton, NJ: Princeton University Press, 2011).
+
+Michael S. Rosenwald, “History’s Deadliest Pandemics, from Ancient Rome to Modern America,” Washington
+Post, October 3, 2021, https://www.washingtonpost.com/graphics/2020/local/retropolis/coronavirus-
+deadliest-pandemics.
+
+Aditya Sarkar, “The Danger of Researching ‘in Silos’: Lessons from the Chinese Famine of 1876–9,” Reinventing
+Peace (blog), World Peace Foundation, Fletcher School, Tufts University, September 27, 2016,
+https://sites.tufts.edu/reinventingpeace/2016/09/27/lessons-from-the-chinese-famine-of-1876-9.
+
+Amardeep Singh, “Forgetting the Famines” (lecture, Michigan State University, Ann Arbor, March 2017),
+https://scalar.lehigh.edu/kiplings/forgetting-the-famines-talk-by-amardeep-singh.
+
+“Coronavirus World Map: Tracking the Global Outbreak,” data tracking web page, New York Times, accessed
+November 1, 2021, https://www.nytimes.com/interactive/2021/world/covid-cases.html.
+

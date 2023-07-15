@@ -1,0 +1,597 @@
+- 1 -
+Guidelines for the 2023 Fall Graduate Admission
+Admissions Schedule
+Schedule Date Remarks Fall Semester
+Online application
+Foreigner 2023.3.15.(Wed.), 10:00 ~ 28.(Tue.) 18:00 Online
+Korean Application 2023.3.22.(Wed.) 10:00 ~ 4.4.(Tue.) 18:00
+Submission of Documents
+Foreigner 2023.3.15.(Wed.), 10:00 ~ 29.(Wed.) 18:00 Online Upload within the Korean 2023.3.22.(Wed.) 10:00 ~ 4.5.(Wed.) 18:00 deadline
+Announcement of Documents Screening 2023.5.17.(Wed.), 14:00 admg-intl.unist.ac.kr
+Interview 2023.5.22.(Mon.) ~ 31.(Wed.)
+Announcement of Successful Candidates 2023.6.21.(Wed.), 14:00 admg-intl.unist.ac.kr
+Registration 2023.6.21.(Wed.), 14:00 ~ 26.(Mon.), 18:00
+Submit online
+'Registration
+Confirmation'
+Announcement of candidates for transition from UNIST scholarship to Government
+After Fall Semester registration period ~
+(UNIST → Government Scholarship) Notified individually
+※ Online Application
+- Korean Students: http://adm-g.unist.ac.kr
+- International(Foreign) Students: http://admg-intl.unist.ac.kr
+※ The dates above are subject to change without a prior notice.
+※ Details on the interview will be released by each department.
+※ Announcement of additional successful candidates for government scholarship:
+Among the final successful applicants, if the applicants who have been
+accepted as Government scholarship students do not register, the UNIST
+scholarship students may be converted into Government students according to
+UNIST's internal priorities among those who have been accepted as UNIST
+scholarship students.
+※ Announcement of successful applicants for the transition to government scholarship
+students does not apply to all recruitment units(majors), but applies only to
+internally determined recruitment units(majors)
+- 2 -
+Academic programs
+College Department/Graduate School Application Unit Master Combined Master-Doctor Doctor
+Gov’t UNIST Others Gov’t UNIST Others Gov’t UNIST Others
+Engineering
+Mechanical Engineering Mechanical Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Urban and
+Environmental Engineering
+Urban Infrastructure Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Environmental Science Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Disaster Management Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Water-Energy Nexus × ○** × × ○** × × ○** ×
+Graduate School of Semiconductor Materials and Devices Engineering
+Semiconductor Materials and Devices Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Materials Science and Engineering Materials Science and Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Energy and Chemical Engineering
+Energy and Chemical Engineering
+Energy Engineering
+○ ○ ○ ○ ○ ○ ○ ○ ○
+Energy Engineering
+(Battery Science & Technology)
+Chemical Engineering
+Carbon Neutrality
+Carbon Neutrality(Energy Engineering) ○ ○ ○ ○ ○ ○ ○ ○ ○
+Carbon Neutrality(Chemical Engineering) ○ ○ ○ ○ ○ ○ ○ ○ ○
+Carbon Neutrality(Environment) ○ ○ ○ ○ ○ ○ ○ ○ ○
+Nuclear Engineering Nuclear Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Information
+and
+Biotechnology
+Design Design ○ ○ ○ ○ ○ ○ ○ ○ ○
+Biomedical Engineering Biomedical Engineering ○ ○* ○ ○ ○* ○ ○ ○* ○
+Graduate School of Health
+Science and Technology Health Science and Technology*** ○ ○ ○ ○ ○ ○ ○ ○ ○
+Biological Sciences Biological Sciences ○ ○ ○ ○ ○ ○ ○ ○ ○
+Industrial Engineering Industrial Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Graduate School of Artificial Intelligence Artificial Intelligence ○ ○ ○ ○ ○ ○ ○ ○ ○
+Electrical Engineering Electrical Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Computer Science and Engineering Computer Science and Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+Natural Sciences
+Physics Physics ○ ○ ○ ○ ○ ○ ○ ○ ○
+Applied Physics ○ ○ ○ ○ ○ ○ ○ ○ ○
+Mathematical Sciences Mathematical Sciences ○ ○ × ○ × × ○ × ×
+Chemistry Chemistry ○ ○ ○ ○ ○ ○ ○ ○ ○
+Business Administration Management Engineering ○ ○ ○ ○ ○ ○ ○ ○ ○
+- 3 -
+※ Names of academic programs are subject to change.
+※ The School of Energy and Chemical Engineering recruits applicants by integrating the application unit into the Energy Chemical
+Engineering major, and then assigns a major at the time of admission.
+※ Whether to be a scholarship student depends on the evaluation, and scholarship benefits may vary.
+* Included Biomedical Engineering ‘UNIST-IBS Neuroscience Inter-Institutional Scholarship’. For more detail, please refer to [Annex].
+※ Notice of New major and Program (From 2023 Spring 2nd Admission)
+** The name of new major: Water-Energy Nexus
+** Students will be financially supported by Korea Ministry of Environment(MOE) as 「Graduate School specialized in Integrated Water
+Resources Managerment」(Tuition fee, laboratory practice expenses, overseas training fee)
+** When applying for admission, choose 'Water-Energy Nexus' for major, Scholarship(Government or UNIST) for Scholarship, and final
+successful applicant enter as an UNIST Scholarship student.
+※ Notice of New major (From 2023 Fall Admission)
+*** The name of new major: Health Science and Technology
+*** ‘Health Innovation and Entrepreneurship’ in the graduate school of HST accepts applications from 2024 Spring(1st) admission period.
+- 4 -
+ Admission Quota
+o The quota for 2023 UNIST graduate admission is around 553.
+- Master’s degree is around 168
+- Combined Master’s-Doctoral degree is around 313
+- Doctoral degree is around 72
+※ The number of admission Quota is subject to change.
+Definition of scholarship
+o Scholarship funded by Korean government
+- Government fund in whole or in part student’s tuition and scholarship.
+※ Employed applicants have to apply for the “Other Scholarship”
+※ Applicants who are currently employed may apply if they
+retire before admission. If they do not retire before admission,
+admission may be cancelled.
+※ If the history of working at an external institution while
+attending UNIST is confirmed, the person concerned may be
+disadvantaged.
+o Scholarship funded by UNIST
+- UNIST fund in whole or in part student’s tuition and scholarship.
+※ Employed applicants have to apply for the “Other Scholarship”
+※ Applicants who are currently employed may apply if they
+retire before admission. If they do not retire before admission,
+admission may be cancelled.
+※ If the history of working at an external institution while
+attending UNIST is confirmed, the person concerned may be
+disadvantaged.
+o Scholarship funded by Others(Company, Institute, Yourself, etc.)
+- Student’s tuition and scholarship in whole or in part funded
+by others(In case UNIST admits that tuition is to be paid by a student).
+- 5 -
+Qualification for application
+o Master’s program and Combined Master’s-Doctoral program
+- Applicants who have a bachelor’s degree or will be awarded
+a bachelor’s degree by the first day of class or have an
+educational background equivalent to the above
+o Doctoral program
+- Applicants who have a Master’s degree or will be awarded a
+Master’s degree by the first day of class or who have an
+educational background equivalent to the above
+Guidance of documents required to be submitted by registrants
+after final acceptance
+o 2023 Fall Semester Admission(Academic Background Verification)
+- Applicants who are expected to obtain a degree from a
+Korean university or institution must obtain a degree before
+August, 2023.
+- Applicants who are expected to obtain a degree from an
+overseas university or institution must obtain a degree
+before early of July, 2023.
+- Finalists of this admission who has obtained a degree from a
+korean university or institution must submit the original for
+the final certificate of degree(graduation certificate) and
+transcripts by 2023.8.25.(Fri.) by post. (If you do not submit
+the Apostille within the deadline, admission may be canceled.)
+- Finalists of this admission who have obtained a degree from
+an overseas university or institution must submit the
+Apostille(consular confirmation for countries which are not
+signatories to the convention) for the final certificate of
+degree(graduation certificate) and transcripts by 2023.7.19.(Wed.)
+- 6 -
+by post. (If you do not submit the Apostille within the
+deadline, admission may be canceled.)
+- Admission may be canceled if documents related to academic
+background verification are not submitted within the above
+deadline.
+- Address: Admissions Team, Room #105, Main Administrative
+Building(201), UNIST-gil 50, Ulju-gun, Ulsan 44919, Republic
+of Korea
+※ Only documents issued within 2 months from the date of
+submission to the admissions team are valid, and documents
+issued before that time are not accepted.
+※ If you can not issue a graduation certificate because you
+have not graduated from a Korean university, first issue and
+submit the original certificate of expected graduation, and
+then submit the final certificate of graduation and original
+transcripts after graduation.
+※ If it is not possible to submit proof of academic background
+within the specified period, please contact the admissions
+team and discuss in advance (Inquiry: adm-g@unist.ac.kr)
+※ You can visit the admissions team if you are in UNIST.
+(Business hours: 09:00am~18:00pm, Lunch Time: 12:00pm~13:00pm)
+o 2023 Fall Semester Admission(Financial Verification Documents)
+- In the case of international students who have accepted the
+master's course or combined master's and doctoral course,
+you must submit financial documents to confirm that you can
+cover your living expenses in addition to the scholarship
+benefits provided.
+- Therefore, Submit a 'Bank Certificate of deposit(balance) or
+Bank Statement' of your own bank account with a balance
+- 7 -
+equivalent to USD 2000 or more.
+- All the documents must be shown in USD or the USD
+equivalent of foreign currency and be issued within 30 days
+unless it has its valid date.
+- Also, all financial documents must be written in English and
+submitted in the original copy.
+- Finalists(Foreigners) of this admission must submit the Financial
+Verification Documents with his/her Academic Background
+Verification documents by 2023.7.19.(Wed.) by post. (If you do
+not submit the documents, admission may be canceled.)
+- Admission may be canceled if documents related to academic
+background verification and Financial Verification are not
+submitted within the above deadline.
+- Address: Admissions Team, Room #105, Main Administrative
+Building(201), UNIST-gil 50, Ulju-gun, Ulsan 44919, Republic
+of Korea
+Scholarships
+o Scholarship funded by Korean government
+- Tuition fee waiver
+- Stipend Offer
+∙ Master: More than KRW 9,600,000/year
+∙ Doctor: More than KRW 13,200,000/year
+※ The above is based on the minimum amount and the
+additional amount can be provided differently according to
+the participating Lab.
+※ Professional·Special graduate school, Management Engineering
+students, Students who are enrolled exceeding the class period
+are not included.
+- 8 -
+※ The School of Business Administration(Management Engineering)
+applies a separate standard for scholarships(cost of living expenses).
+∙Master: More than KRW 2,880,000/year
+∙Doctor: More than KRW 4,740,000/year
+∙The above is based on the minimum amount and the additional
+amount can be provided differently according to the participating Lab.
+- Students pursuing Doctoral degree are eligible for technical
+research personnel recruitment.
+- Dormitory on campus is available for graduate students.
+o Scholarship funded by UNIST
+- Tuition fee support
+※ Successful applicants pay the tuition at their own expense. And
+when Stipend is paid during the semester, their advisors support
+the divided amount corresponding to the tuition.
+- Stipend Offer (Including tuition support amount)
+∙ Master: More than KRW 17,280,000/year
+∙ Doctor: More than KRW 20,880,000/year
+※ The above is based on the minimum amount and the
+additional amount can be provided differently according to
+the participating Lab.
+※ Professional·Special graduate school, Management Engineering
+students, Students who are enrolled exceeding the class period
+are not included.
+※ The School of Business Administration(Management Engineering)
+applies a separate standard for scholarships(cost of living expenses).
+∙Master: More than KRW 10,560,000/year
+∙Doctor: More than KRW 12,420,000/year
+∙The above is based on the minimum amount and the additional
+amount can be provided differently according to the participating Lab.
+- Students pursuing Doctoral degree are eligible for technical
+- 9 -
+research personnel recruitment.
+- Dormitory on campus is available for graduate students.
+o Scholarship funded by Others(Company, Institute, Yourself, etc.)
+- Tuition fee shall be paid.
+- Non-payment of Stipend
+- Non-incorporated in Technical Research Personnel
+- Dormitory on campus is available for graduate students.
+※ Scholarships are subject to change and will be given under UNIST regulations.
+Admission Process
+o Evaluation
+- 1st evaluation(Document screening): Documents submitted will
+be evaluated on the basis of the applicant’s academic
+achievements, potential, and personal accomplishments.
+- 2nd evaluation(Interview): Applicants will get interviewed on
+the basis of the applicant’s basic knowledge of major, level of
+interest in research, proficiency in English, and personal accomplishments.
+※ Interview can be conducted Online or Face-to-face.
+o Decision of successful applicants
+- 1st evaluation(Document screening): Based on the document screening
+results, 2nd evaluation(interview) interviewees will be determined.
+- Final successful applicants: The final successful applicants will
+be determined according to the results of the interview evaluation.
+- 10 -
+Required Documents
+No List Master Combined Master -Doctor Doctor
+1 Check list of document(Form 1) ○ ○ ○
+2 Application Form ○ ○ ○
+3 Diploma(certificate) of Bachelor’s degree ○ ○ ○
+4 Diploma(certificate) of Master’s degree - - ○
+5
+Transcripts of Bachelor’s degree
+* Transfer students must submit school transcripts prior
+to transfer
+○ ○ ○
+6 Transcripts of Master’s degree - - ○
+7 Study Plan & Personal Statement(Form 2) ○ ○ ○
+8 English Test Report ○ ○ ○
+9 Letter of Disclosure Agreement(Form 3) ○ ○ ○
+10
+Recommendation Letter from Others(Company, Institute, etc.)
+(Form 4, Only for student funded from Others)
+* No need to submit for those who pay for education expenses (tuition) by own self
+△ △ △
+11 Certificate of Employment(Only for student funded from Others)
+* Submit only those who can issue a certificate. △ △ △
+12 Additional documents △ △ △
+※ ○: Mandatory, △: Optional o Important notes
+- All the required documents shall be uploaded to UNIST Admission
+application system before the deadline(Attached by a(one) PDF file).
+- Application Form: Print out the completed application form
+＊ Applicants who apply for Doctoral course shall provide the advisor’s
+contact information. (The evaluators can ask for a recommendation.)
+- Diploma(certificate) of Bachelor’s(Master’s) degree
+＊ University in Korea: Applicants who are graduated from a Korean
+university shall submit the original certificate of diploma. If he or she is
+a prospective graduate, he or she shall submit an original certificate of
+registration or certificate of expected graduation.
+＊ University abroad: Applicants can submit notarized copy of diploma
+- 11 -
+(certificate) of degree.(Prospective graduate can submit a certificate of
+registration or certificate of expected graduation.) Successful candidates
+shall submit the Letter of Disclosure Agreement(Attached form 3), the
+diploma and the transcripts with Apostille or have them authenticated by
+the Korean embassy.
+- Transcripts
+＊ University in Korea: Applicants shall submit the original transcripts. If the
+applicants transferred from one or more universities, each transcript is
+required from all universities.
+＊ University abroad: Applicants can submit a notarized copy of transcripts
+in case the materials get lost in the mail. Successful candidates shall
+submit the Letter of Disclosure Agreement(Attached form 3), the diploma
+and the transcripts with Apostille or have them authenticated in the
+Korean embassy.
+＊ Prospective graduates must submit transcripts with all grades up to the
+available semester(submission of transcripts for all grades after admission
+will be requested).
+- Study plan: It has to be included the application number after
+the online application and should be written in English.
+- Personal Statement: It has to be included the application
+number after the online application and be written in English.
+- English test score: English proficiency tests operated by any
+english test institutes(A result of TOEIC, TOEFL(Code: 8807),
+IELTS, TEPS, G-TELP, TOEIC S/W, OPIC)
+- Additional documents: Any documents showing applicants’
+qualifications or research achievements will do. Applicants for
+Doctoral programs can submit a Master’s thesis(Optional).
+- Certificate(s) shall be issued within 1 month from the start
+date of the online application.
+o Details on English Test Report(Score)
+- Applicants should submit a test result of TOEIC, TOEFL(Code:
+- 12 -
+8807), IELTS, TEPS(New TEPS), G-TELP, TOEIC S/W, OPIC,
+which is official english proficiency test score operated by any
+official english test institution.
+＊ The test date shall be within 2 years of the online application deadline.
+＊ The TOEFL ITP, which is a self-administered TOEFL conducted
+by universities or institutions, is not accepted.
+＊ English scores such as Duolingo english test, IELTS Indicator and Etc.
+other than the English scores presented above are not accepted.
+- Applicants do not need to submit the English Test Report, if
+they belong to one of the followings.
+＊ Applicants who submit a certificate stating that all of their Bachelor's
+or Master’s courses have completed with 100% English.
+＊ Applicants who are native English speakers(U.S, Canada, U.K, Australia,
+New Zealand, Ireland, etc.)
+- Additional documents: Applicants may submit documents
+proving their research achievements.(Applicants for the doctoral
+program can submit a master's thesis)
+- In principle, all certificates and documents must be issued
+within one month of the start date of application.
+- 13 -
+Application process
+o Process (Do not use Smartphones, Tablet computers, or PDAs
+when Submitting, Printing and Uploading the application)
+- International Applicant (For Korean applicants, please refer to the
+Korean admissions guidelines)
+International Applicant
+UNIST admission website
+↓
+Login
+· Login(Make an account)
+↓
+Fill out the online application
+· ID picture(3×4cm) taken within previous 3 months
+(Black and white photo cannot be accepted, Only color photo is allowed)
+↓
+Confirm the online application
+· Fill out the Application Form for admission, Study Plan and Personal Statement, and
+Letter of Disclosure Agreement for academic background inquiry online.
+· Download and fill out the 'Recommendation Letter from others' that is optionally
+submitted when applying for Other scholarship.(Fill out only those who need to submit.)
+↓
+Complete the submission of documents
+· Print out the online completed Application Form for admission, Study Plan and
+Personal Statement, Letter of Disclosure Agreement and Check List of Documents.
+· Collect together the documents such as graduation(degree) certificates, transcripts,
+official English proficiency scores, and additional documents with the printed
+documents in the order of the documents submission.
+· The documents are scanned and converted into a single(1) PDF file and uploaded to
+the online application site.
+↓
+Complete the online application
+· The Admission number is automatically created after completing the online application.
+· The application can not be modified after creating application number.
+＊ No application fee
+- 14 -
+Announcement of successful candidates
+o Schedule for the Announcement of screening results
+Announcement 2023 Fall Admission
+1st evaluation
+(Documents screening) 2023.5.17.(Wed.) 14:00pm (Korean Standard Time)
+2nd evaluation
+(Interview) 2023.6.21.(Wed.) 14:00pm (Korean Standard Time)
+o Important information
+- All applicants shall check the evaluation results on the UNIST
+admission website. It is the applicant’s responsibility to check
+the results.
+- The results shall be checked only at the admissions website.
+- Admission shall be cancelled if the successful candidate(applicant)
+does not submit the ‘UNIST Graduate Admission Registration
+Confirmation’ by the designated date.
+Important Notes
+o The use of smartphones, tablet computers, PDAs, etc. that use
+mobile operating systems (including Macbooks) is prohibited
+when submitting online applications, printing and uploading
+documents. (Operating system and application reception page are
+not compatible, resulting in abnormal errors such as abnormal
+character spacing and overlapping of letters in the application
+and submitted documents)
+o When applying an online application, you must collect the documents
+to be submitted in order and upload them online as one PDF file.
+o Certain documents(e.g. Letter of Recommendation, Diploma,
+Transcripts, and English Test Report) can be sent directly and
+separately to the UNIST Admissions Team.(You must consult
+with the admissions team. Individual submissions arbitrarily are
+- 15 -
+not allowed.)
+o All the documents shall be submitted before the deadline.
+o Applicant’s scholarship, major or program can be changed according
+to the applicant’s consent.
+o Applicants who can not submit the documents before the
+deadline or do not attend the interview will not be accepted.
+o Submitted documents and the application fee will not be returned
+after completing the application.
+o If an applicant acquires an admission illegally, the admission
+shall be cancelled. Furthermore, if a criminal case is suspected,
+the applicants will be reported to the authorities in both
+countries in accordance with the law.
+o If the successful candidate does not get graduated from
+previous school by the enrollment date(starting date of study in
+UNIST), his/her admission will be cancelled.
+o Successful candidates who have studied abroad should submit
+the Diploma(Certificate of Degree) and the Transcripts with
+Apostille or having been authenticated by the Korean embassy.
+Their admissions shall be cancelled, if they do not submit the
+documents.
+※ Apostille or consular confirmed documents must be submitted
+in their original form, and the submission of copies of the
+original is prohibited.
+※ If the original certificate is issued only once, make a copy of
+the documents and get an apostille(consular confirmation) on
+the copy.
+o Successful candidates who have studied in China should submit
+the documents issued by the Ministry of Chinese Education with
+consular confirmation on it.
+- 16 -
+(中國高等敎育學歷査詢報告; http://www.chsi.com.cn)
+o Applicants should read the admission guideline carefully.
+o Applicants are responsible for any disadvantages that arise from
+applying without properly checking the admission guideline.
+o A committee related to UNIST graduate admission will decide further
+details or issues that cannot be specified in this guideline.
+- 17 -
+[Form 1] - Can be filled out and printed on the online application page
+Check List of Documents 
+Please submit the documents in the following order. 
+No. List of Documents
+Attachment
+Yes □∨ No □∨
+1 Application form
+(Print out after completing online application)
+2 Check list of documents (Form 1)
+(Print out after completing online application)
+3 Transcripts of Bachelor’s degree
+ * Transfer students must submit school transcripts prior to transfer
+4 Transcripts of Master’s degree 
+5 Diploma (certificate) of Bachelor’s degree
+6 Diploma (certificate) of Master’s degree
+7
+Study Plan and Personal Statement (Form 2)
+(Print out after completing online application)
+8 English Test Report
+9 Letter of Disclosure Agreement (Form 3)
+(Print out after completing online application)
+10
+Recommendation Letter from Others(Company, Institute, etc.) (Form 4)
+(* Only for student funded by Others(Company, Institute, etc.)) * No need to submit for those who pay for education 
+expenses(tuition) by yourself
+11
+Certificate of Employment 
+(* Only for student funded by Others(Company, Institute, etc.)) * Submit only those who can issue a certificate
+12 Additional documents 
+- 18 -
+[Form 2] - Can be filled out and printed on the online application page
+ Study Plan and Personal Statement 
+*　Please be sure to write in English.
+*　Changes to the form or submission of documents not completed on this form may result in exclusion 
+from evaluation.
+1. Name 2. Application number 
+3. Scholarship 
+☐ Scholarship(Government or UNIST) ☐ Other Scholarship(Company, Institute, Yourself, etc.)
+4. Degree Proposed ☐ Master ☐ Combined Master-Doctor ☐ Doctor 
+5. Application Unit (Major) (Details: ) * Applicants for UNIST-IBS Neuroscience Inter-Institutional Scholarship should write the details 
+‘Biomedical Engineering(IBS Neuroscience Inter-Institutional Scholarship)’
+6. Colleges/Universities Attended 
+University Major Dates Attended GPA/Scale 
+Bachelor
+Master
+Doctor 
+7. Research Achievements 
+ 
+No. Author Title Journal Date Issued
+1
+2
+3
+- 19 -
+8. Preferred study field in detail (Write less than 500 characters in English)
+9. Study Plan (Write less than 3,000 characters in English)
+Provide a clear and detailed description of your study objectives, and provide reasons for wanting to pursue them 
+at UNIST. Be specific about your specialized interests in this field. Describe the study program you expect to 
+undertake, and explain how your study plan fits in with your previous training and your future objectives.
+10. Personal Statement (Write less than 3,000 characters in English)
+Please provide a description about yourself, your life or your goals.
+- 20 -
+[Form 3] - Can be filled out and printed on the online application page
+Letter of Disclosure Agreement 
+To whom it may concern 
+This letter is to confirm that I attended (Write your Last graduation school's name) 
+I have applied to UNIST, Republic of Korea, for the 2023 academic year and have 
+agreed to allow UNIST to officially request my academic records from previously 
+attended schools. In this regard, I would like to request your full assistance when 
+UNIST contacts you regarding verification of enrollment and transcripts. 
+School Name 
+Student Name 
+Major 
+Date of Birth 
+Date of Admission 
+Date of Graduation 
+ Date : 
+ Name : (Signature)
+- 21 -
+[Form 4] Applicants who need to submit this document among Other scholarship applicants should 
+download the form from the admissions website, fill it out, and submit it together with the required 
+documents. (Foreign applicants are not eligible for 'Other Scholarship' except in special cases.)
+Recommendation Letter from Others(Company, Institute, etc.)
+Applicant Information 
+1. Name 2. Application Number 
+3. Degree Proposed ☐ Master ☐ Combined Master-Doctor ☐ Doctor 
+4. Application Unit (Major) 
+5. Attachment: Certificate of Employment
+Institute Information 
+1. Name of Institute 
+2. Date of Establishment 
+3. Type of Business 
+4. Sales figures(year) 
+5. Number of Employees 
+6. Details 
+The institute will fund all or part of the scholarship of the person above.
+ Date : Head of the Institute (Signature)
+To UNIST President 
+- 22 -
+<Annex>
+□ UNIST-IBS Neuroscience Inter-Institutional Scholarship Application Guideline
+o Overview: UNIST-IBS Neuroscience Inter-Institutional Scholarship
+application guideline jointly operated by UNIST Department of
+Biomedical Engineering and Institute of Basic Science Center for
+Cognition and Sociality
+o Objective: To promote inter-disciplinary neuroscience research and
+cultivate global top-notched researchers by establishing an
+inter-institutional education model between university and research
+institute
+o Education and Research
+- Degrees: Biomedical Engineering Master’s or Ph.D.
+- Curriculum: students take neuroscience-specialized courses in the
+UNIST Biomedical Engineering Graduate School Program
+- Credit Exchange: students can take courses in the neuroscience
+area at UST(University of Science and Technology) and earn
+credits
+- Research: Students should conduct inter-disciplinary research at
+both the UNIST and IBS laboratories and stay at each institute
+depending on research purposes as well as live in dormitories of
+each institute
+- Students must stay and work at both IBS and UNIST for certain
+periods of time
+o Scholarship
+- UNIST-IBS Neuroscience Inter-Institutional program is included in
+‘UNIST Scholarship’ among the category of scholarships ※ (M.S) 17,280,000 KRW or above annually (Ph.D) 20,880,000 KRW or above annually ※ The scholarship seen above is covered the whole tuition fee and stipend ([M.S] 
+ More than KRW 800,000/month [Ph.D] More than KRW 1,100,000/month). - Each institute monthly pays stipend to students based on the share
+- 23 -
+portion of institutes, and ceases the payment if students take time off
+or drop out of school
+- Payment is continued until the maximum period of each degree o Application Procedure
+- Application Procedure: UNIST Biomedical Engineering Graduate
+School Neuroscience Inter-Institutional Scholarship
+- Degrees: Master’s, Ph.D., Combined Master’s and Ph.D
+- Capacity: within the capacity of UNIST Biomedical Engineering UNIST
+Scholarship in each year
+- Application process: application to ‘UNIST-IBS Neuroscience
+Inter-Institutional Scholarship’ within the category of the
+Department of Biomedical Engineering UNIST Scholarship
+according to UNIST Graduate School Admission Guideline
+- Admission process will follow the UNIST Graduate Students
+admission process
+※ Inquiry: College of Information and Biotechnology Academic & Students Affairs Team
+ (⌧ heejeongryu@unist.ac.kr)

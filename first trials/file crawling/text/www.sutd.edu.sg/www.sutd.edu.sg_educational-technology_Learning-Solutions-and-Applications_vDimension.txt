@@ -1,0 +1,587 @@
+
+
+
+	Singapore University of Technology and Design (SUTD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Educational Technology
+
+
+
+
+
+
+
+
+SUTD
+
+
+
+
+About
+
+
+Overview
+
+
+Collaborations
+
+
+People
+
+
+Achievements
+
+
+Happenings
+
+
+Publications
+
+
+Contact Us
+
+
+
+
+Admissions
+
+
+Undergraduate
+
+
+Graduate
+
+
+SUTD Academy (CET)
+
+
+42 Singapore
+
+
+
+
+Education
+
+
+Unique Academic Structure
+
+
+Pillars, Programmes and Clusters
+
+
+campusX
+
+
+Professorships
+
+
+Academic Calendar
+
+
+Library
+
+
+Resources
+
+
+
+
+Research
+
+
+Research News
+
+
+Faculty Directory
+
+
+Research Centres
+
+
+Research Newsletters
+
+
+FIRST Industry Workshop
+
+
+Research Programmes & Fellowships
+
+
+Institutional Review Board (IRB)
+
+
+Research Integrity – Scholarly Publications
+
+
+Library
+
+
+
+
+Student Development
+
+
+Global Experience and Exchange
+
+
+Career Development
+
+
+Entrepreneurship
+
+
+UxOP
+
+
+Capstone
+
+
+Student Life
+
+
+Wellbeing Services
+
+
+Merit Awards
+
+
+
+
+Campus Life
+
+
+Diversity and Inclusion
+
+
+Housing
+
+
+Sports and Recreation Centre
+
+
+F&B and Services
+
+
+SUTD Store
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+Search
+
+
+
+
+
+
+
+About
+
+
+Overview
+
+
+Collaborations
+
+
+People
+
+
+Achievements
+
+
+Happenings
+
+
+Publications
+
+
+Contact Us
+
+
+
+
+Admissions
+
+
+Undergraduate
+
+
+Graduate
+
+
+SUTD Academy (CET)
+
+
+42 Singapore
+
+
+
+
+Education
+
+
+Unique Academic Structure
+
+
+Pillars, Programmes and Clusters
+
+
+campusX
+
+
+Professorships
+
+
+Academic Calendar
+
+
+Library
+
+
+Resources
+
+
+
+
+Research
+
+
+Research News
+
+
+Faculty Directory
+
+
+Research Centres
+
+
+Research Newsletters
+
+
+FIRST Industry Workshop
+
+
+Research Programmes & Fellowships
+
+
+Institutional Review Board (IRB)
+
+
+Research Integrity – Scholarly Publications
+
+
+Library
+
+
+
+
+Student Development
+
+
+Global Experience and Exchange
+
+
+Career Development
+
+
+Entrepreneurship
+
+
+UxOP
+
+
+Capstone
+
+
+Student Life
+
+
+Wellbeing Services
+
+
+Merit Awards
+
+
+
+
+Campus Life
+
+
+Diversity and Inclusion
+
+
+Housing
+
+
+Sports and Recreation Centre
+
+
+F&B and Services
+
+
+SUTD Store
+
+
+
+
+
+Information For
+
+Prospective StudentStudentParentFaculty/StaffPartner
+
+
+
+
+
+
+
+
+
+vDimension
+
+
+
+
+
+Home
+Educational TechnologyLearning Solutions and ApplicationsvDimension
+
+
+
+
+Learning Solutions and Applications
+Academic Media Studio
+Workshops
+Policies
+About Us
+
+
+
+
+
+More in this section 
+
+
+
+Learning Solutions and Applications
+
+
+eDimension
+
+
+Online Exam
+
+
+Plagiarism Tool
+
+
+vDimension
+
+
+Learning Catalytics
+
+
+Subject and Instructor Evaluation
+
+
+Teaching and Learning Equipment
+
+
+
+
+Academic Media Studio
+
+
+Workshops
+
+
+Policies
+
+
+About Us
+
+
+
+
+
+
+
+
+
+Facebook
+Twitter
+LinkedIn
+Whatsapp
+
+
+vDimension
+A video streaming server where you upload your lesson videos to securely share them with your students via eDimension. Please contact us at edi_admin@sutd.edu.sg to request for an account.
+
+Please refer to the user guide to find out how you can utilise this tool.
+Instructor Guide - Upload Videos vDimension (SUTD Central)Automated Lecture Capture System
+The automated lecture capture system allows lectures to be recorded and viewed by students and faculty after the lecture. The recordings can be accessed from eDimension and only students who are enrolled to the course will have access to the recordings.
+ 
+The system automatically records a lecture, uploads it to a server, processes the videos and makes them available for viewing on a streaming server.
+
+The System is installed in LT 2 and LT4 and it captures audio from the main projection and presenter’s microphone along with four video streams.
+
+
+
+
+                    LT2
+                
+
+
+One camera capturing the left writing board
+One camera capturing the right writing board
+One camera capturing a wide shot of the stage area
+One video stream of the main projection
+
+
+
+
+
+                    LT4
+                
+
+
+One camera capturing the left writing board
+One camera capturing the right writing board
+One tracking camera following the presenter
+One video stream of the main projection
+
+
+
+
+The system can be used for lectures in courses which support teaching and learning.
+ 
+In order to utilise this system, please make a request to OSA for your lecture to be scheduled in LT2 or LT4. Once you have secured either of these LTs for your lecture, please send us an email at edi_admin@sutd.edu.sg to inform us of your intention to have your lecture recorded. Please include details such as date(s), start and end time, and frequency of your lecture. We will then arrange your lectures to be recorded and made available to your students via eDimension.
+PowerPoint Screen Recording User Guide (SUTD Central)
+
+
+
+Screen Recording
+Large Media Files 
+
+
+
+Screen recording can be used for Flipped Learning. You can record a mini lecture on your computer and it can be made available for students ahead of the lesson. It is also possible to create tutorial videos, allowing students to revisit explanations for better understanding.
+ 
+You can record your computer screen/audio and embed it in your PowerPoint slide:
+
+To record and listen to audio associated with your screen recording, you will need a sound card, microphone and speakers.
+Make sure there is enough disk space on your local drive to record and save your screen recording.
+
+Please refer to the user guide on screen recording below.
+
+
+Due to limited storage space in eDimension, we strongly recommend all instructors to upload lecture videos to SUTD’s video streaming server, vDimension.
+ 
+Videos uploaded to vDimension can be linked back seamlessly to eDimension, allowing students to access them easily.
+ 
+To upload videos to vDimension, please send us an email at edi_admin@sutd.edu.sg to request for an account.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+Terms and Conditions
+Privacy Statement
+
+
+Copyright © 2011 - 2023
+Sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+

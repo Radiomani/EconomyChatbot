@@ -1,0 +1,809 @@
+
+
+
+	Singapore University of Technology and Design (SUTD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Educational Technology
+
+
+
+
+
+
+
+
+SUTD
+
+
+
+
+About
+
+
+Overview
+
+
+Collaborations
+
+
+People
+
+
+Achievements
+
+
+Happenings
+
+
+Publications
+
+
+Contact Us
+
+
+
+
+Admissions
+
+
+Undergraduate
+
+
+Graduate
+
+
+SUTD Academy (CET)
+
+
+42 Singapore
+
+
+
+
+Education
+
+
+Unique Academic Structure
+
+
+Pillars, Programmes and Clusters
+
+
+campusX
+
+
+Professorships
+
+
+Academic Calendar
+
+
+Library
+
+
+Resources
+
+
+
+
+Research
+
+
+Research News
+
+
+Faculty Directory
+
+
+Research Centres
+
+
+Research Newsletters
+
+
+FIRST Industry Workshop
+
+
+Research Programmes & Fellowships
+
+
+Institutional Review Board (IRB)
+
+
+Research Integrity – Scholarly Publications
+
+
+Library
+
+
+
+
+Student Development
+
+
+Global Experience and Exchange
+
+
+Career Development
+
+
+Entrepreneurship
+
+
+UxOP
+
+
+Capstone
+
+
+Student Life
+
+
+Wellbeing Services
+
+
+Merit Awards
+
+
+
+
+Campus Life
+
+
+Diversity and Inclusion
+
+
+Housing
+
+
+Sports and Recreation Centre
+
+
+F&B and Services
+
+
+SUTD Store
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+Search
+
+
+
+
+
+
+
+About
+
+
+Overview
+
+
+Collaborations
+
+
+People
+
+
+Achievements
+
+
+Happenings
+
+
+Publications
+
+
+Contact Us
+
+
+
+
+Admissions
+
+
+Undergraduate
+
+
+Graduate
+
+
+SUTD Academy (CET)
+
+
+42 Singapore
+
+
+
+
+Education
+
+
+Unique Academic Structure
+
+
+Pillars, Programmes and Clusters
+
+
+campusX
+
+
+Professorships
+
+
+Academic Calendar
+
+
+Library
+
+
+Resources
+
+
+
+
+Research
+
+
+Research News
+
+
+Faculty Directory
+
+
+Research Centres
+
+
+Research Newsletters
+
+
+FIRST Industry Workshop
+
+
+Research Programmes & Fellowships
+
+
+Institutional Review Board (IRB)
+
+
+Research Integrity – Scholarly Publications
+
+
+Library
+
+
+
+
+Student Development
+
+
+Global Experience and Exchange
+
+
+Career Development
+
+
+Entrepreneurship
+
+
+UxOP
+
+
+Capstone
+
+
+Student Life
+
+
+Wellbeing Services
+
+
+Merit Awards
+
+
+
+
+Campus Life
+
+
+Diversity and Inclusion
+
+
+Housing
+
+
+Sports and Recreation Centre
+
+
+F&B and Services
+
+
+SUTD Store
+
+
+
+
+
+Information For
+
+Prospective StudentStudentParentFaculty/StaffPartner
+
+
+
+
+
+
+
+
+
+eDimension 
+
+
+
+
+
+Home
+Educational TechnologyLearning Solutions and ApplicationseDimension
+
+
+
+
+Learning Solutions and Applications
+Academic Media Studio
+Workshops
+Policies
+About Us
+
+
+
+
+
+More in this section 
+
+
+
+Learning Solutions and Applications
+
+
+eDimension
+
+
+Online Exam
+
+
+Plagiarism Tool
+
+
+vDimension
+
+
+Learning Catalytics
+
+
+Subject and Instructor Evaluation
+
+
+Teaching and Learning Equipment
+
+
+
+
+Academic Media Studio
+
+
+Workshops
+
+
+Policies
+
+
+About Us
+
+
+
+
+
+
+
+
+
+Facebook
+Twitter
+LinkedIn
+Whatsapp
+
+
+eDimension
+EDIMENSION FACULTY USER GUIDE (SUTD CENTRAL)
+
+
+
+eDimension (Blackboard)
+Support (Lecturer)
+Support (Student)
+
+
+
+eDimension is SUTD’s Learning Management System (LMS), which is based on Blackboard. The LMS is an online learning system that provides web and mobile interfaces, designed to complement teaching and learning.
+eDimension can be used for communication, creating engaging content and collaboration (etc.). 
+
+Accessing eDimension
+
+
+
+Web Access
+ eDimension
+
+
+
+Mobile App
+
+ Student (iOS)
+ Faculty (iOS)
+
+
+ Student (Android)
+ Faculty (Android)
+
+
+
+
+Technical Requirements
+
+
+
+Operating Systems
+Window 8 and newer
+			Mac OS X 10.12 and newer
+
+
+
+Computer Speed 
+
+Use a computer with at least 4GB of RAM
+
+
+Internet Speed
+Minimally Broadband  with a consistent speed of 1.5 Mbps
+
+
+
+
+
+Build Course Content
+You can create your content in your courses such as learning modules, lesson plans and folders.
+
+
+
+Create Content
+You can create content, set its options and availability for students to access.
+
+
+Reuse Content
+You can copy, import and save an entire course as an archive.
+
+
+Course Files
+With Course Files, you can organize, view, manage, and link to files according to your needs.
+
+
+Content Collection
+Content Collection allows you to upload, replace or delete content directly from Blackboard
+
+
+
+
+Communication
+An overview of the different types of communication tools in eDimension.
+
+
+
+Announcements
+A one way communication from instructors to students.
+
+
+Send Email
+Two way communication between instructors and students.
+
+
+Discussion Forum
+Two way communication between instructors and students to add interaction in your class.
+
+
+Profile
+Two way communication between instructors and students for sharing of information.
+
+
+
+
+Assignments
+An overview of the different types of Assignments tools in eDimension.
+
+
+
+Native Assignments
+Native assignments do not go through plagiarism and collusion checks.
+
+
+Turnitin Assignments
+Turnitin assignments are used for plagiarism and collusion checks.
+
+
+Tests
+Tests are used to  measure student knowledge and gauge progress.
+
+
+
+
+Tests
+The Test tool can be used for multiple question formats (e.g. MCQ, Long answer etc.)
+
+
+
+Create Tests and Surveys
+Create Tests and Surveys to measure student knowledge and gather information.
+
+
+Questions Types
+There are various questions types available in course view.
+
+
+Test and Survey Results​
+View statistical information about your tests and surveys.
+
+
+Item Analysis​
+View statistics on overall performance, test quality, and individual questions. 
+
+
+
+
+Grading
+You can provide and manage your students' grade for assignments, tests, discussion posts, journals, blogs and wikis.
+
+
+
+Entering Grades in Grade Center
+Manually assign grades in the Grade Center.
+
+
+Assignment Inline Grading
+Inline Grading allows instructors to grade students’ assignments and provide feedback with annotations.
+
+
+Rubrics
+Rubrics ensure consistent and impartial grading and help students to focus when studying.
+
+
+Feedback Studio
+The Turnitin Feedback Studio is designed to empower you to provide the tools needed for an efficient marking process.
+
+
+
+
+Collaboration
+An overview of the different types of collaboration tools in eDimension.
+
+
+
+Collaborate
+A virtual classroom tool used to deliver lessons synchronously to students.
+
+
+Blogs
+A tool which allows students to improve reflection and writing skills.
+
+
+Journal
+A self-reflection tool that allows students to express their thoughts.
+
+
+Wiki
+A collaborative web space where co-construct of knowledge can take place.
+
+
+
+
+ 
+             
+
+Access Course Content
+Accessing Content in your course.
+
+
+
+Access Course Content
+You access course content from links on the course menu.
+
+
+Types of Content
+Your instructors can add different types of content to your courses, such as files, text, assignments, images, multimedia, and links
+
+
+
+
+Communication
+An overview of the different types of communication tools in eDimension.
+
+
+
+Announcements
+You can easily view the institution and course announcements your institution and instructors have posted.
+
+
+Send Email
+Two way communication between instructors and students.
+
+
+Discussion Forum
+Two way communication between instructors and students to add interaction in your class.
+
+
+Profile
+Two way communication between instructors and students for sharing of information.
+
+
+
+
+Assignments
+An overview of the different types of Assignments tools in eDimension.
+
+
+
+Native Assignments
+Native assignments do not go through plagiarism and collusion checks.
+
+
+Turnitin Assignments
+Turnitin assignments are used for plagiarism and collusion checks.
+
+
+Tests
+Tests are used to assess your knowledge of course content.
+
+
+
+
+Grades
+An overview of the grades results.
+
+
+
+View Grade
+You can see grades for all of your courses or one course at a time.
+
+
+My Grades Page
+On the My Grades page, you can view all the coursework and grades for the course you're in.
+
+
+Submission Receipts
+Receive a notification email for each assignment or test submission that includes information such as attached filenames and sizes.
+
+
+
+
+Collaboration
+An overview of the different types of collaboration tools in eDimension.
+
+
+
+Collaborate
+A virtual classroom tool used to deliver lessons synchronously to students.
+
+
+Blogs
+A tool which allows students to improve reflection and writing skills.
+
+
+Journal
+A self-reflection tool that allows students to express their thoughts.
+
+
+Wiki
+A collaborative web space where co-construct of knowledge can take place.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+Terms and Conditions
+Privacy Statement
+
+
+Copyright © 2011 - 2023
+Sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
